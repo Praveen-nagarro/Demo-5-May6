@@ -1,0 +1,8 @@
+site_name: "Tech6"
+site_description: "Tech6 updates"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

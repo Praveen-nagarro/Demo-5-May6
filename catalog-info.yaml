@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Tech6"
+  description: "Tech6 updates"
+  annotations:
+    github.com/project-slug: praveen-nagarro/Demo-5-May6
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/guests"
